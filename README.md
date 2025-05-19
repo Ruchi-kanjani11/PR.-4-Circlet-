@@ -8,3 +8,5 @@ Output 3:-
 <img src="Screenshot 2025-05-19 143538.png">
 Output 4:-
 <img src="Screenshot 2025-05-19 143608.png">
+Output 5:-
+<img src="Screenshot 2025-05-19 143704.png">
